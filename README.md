@@ -22,7 +22,7 @@ Rayku **——** My personal general purpose discord bot.<br><br>
 
 ## 🔎 Where you can find me
 
-[Twitter](https://twitter.com/shomykohai) • [Kitsu](https://kitsu.io/users/shomy) • [YouTube](https://youtube.com/@shomykohai)
+[Twitter](https://twitter.com/shomykohai) • [Kitsu](https://kitsu.app/users/shomy) • [YouTube](https://youtube.com/@shomykohai)
 <br><br>
 
 [![TwitterShomy](https://img.shields.io/badge/-shomykohai-1DA1F2?style=flat&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/shomykohai)
