@@ -1,4 +1,4 @@
-🔮 Musician, gamer and dev.<br>
+🔮 Musician and developer.<br>
 🎮 Laying the foundation to make my dream game. <br><br>
 
 Currently contributing to [Kitsu](https://github.com/hummingbird-me).
@@ -23,7 +23,7 @@ Rayku **——** My personal general purpose discord bot.<br><br>
 
 ## 🔎 Where you can find me
 
-[Twitter](https://twitter.com/shomykohai) • [Kitsu](https://kitsu.app/users/shomy) • [YouTube](https://youtube.com/@shomykohai)
+[BlueSky](https://shomy.bsky.social) • [Kitsu](https://kitsu.app/users/shomy) • [Twitter](https://twitter.com/shomykohai) 
 <br><br>
 
-[![TwitterShomy](https://img.shields.io/badge/-shomykohai-1DA1F2?style=flat&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/shomykohai)
+[![BSkyShomy](https://img.shields.io/badge/-shomy-1185FE?style=flat&logo=bluesky&logoColor=white&labelColor=1185FE)](https://shomy.bsky.social)
